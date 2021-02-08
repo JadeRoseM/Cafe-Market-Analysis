@@ -1,5 +1,2 @@
-# Exmple
+# Cafe Market Analysis 
 Yandex exmple
-
-# Projwct Details
-asfawfawfw
